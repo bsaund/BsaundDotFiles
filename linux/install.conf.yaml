@@ -1,0 +1,4 @@
+- clean: ['~']
+
+- link:
+        ~/.tmux.conf: term/tmux/.tmux.conf
